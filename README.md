@@ -11,3 +11,5 @@
 - 컴파일러는 구조의 정합성을 보장합니다. 따라서 강타입 언어를 써야 합니다.
 
 https://bugcaptor.github.io/NatriumStory/
+
+
